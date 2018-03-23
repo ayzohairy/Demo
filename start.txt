@@ -1,1 +1,3 @@
 starting a new text for testing git
+
+adding text for tsting -am switch
